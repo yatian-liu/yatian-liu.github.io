@@ -1,26 +1,30 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            Yatian Liu
-email:            dougliu@umich.edu
-# tagline:          'A Jekyll theme'
-description:      >- # this means to ignore newlines until "url:"
-  A website about Yatian Liu as a person and his research experiences.
-url:              ""
-baseurl:          /
+title: Yatian Liu
+description: >- # this means to ignore newlines until "baseurl:"
+  A website about Yatian Liu and his research experiences.
+baseurl: /
 
-paginate:         5
+plugins:
+  - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Yatian Liu"
 
 # Custom vars
-version:          2.1.0
 
 github:
-  repo:           https://github.com/yatian-liu/yatian-liu.github.io
+  repo: https://github.com/yatian-liu/yatian-liu.github.io
 
 exclude:
   # Default
