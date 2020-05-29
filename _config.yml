@@ -1,10 +1,3 @@
-# Dependencies
-markdown: redcarpet
-highlighter: pygments
-
-# Permalinks
-permalink: pretty
-
 # Setup
 title: Yatian Liu
 description: >- # this means to ignore newlines until "baseurl:"
