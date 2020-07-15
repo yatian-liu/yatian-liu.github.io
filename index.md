@@ -10,7 +10,8 @@ currently working on relevant projects.
 ## Current projects
 
 - Help to build an ultrasonic microphone array system at the [SPQR
-    Lab](https://spqr.eecs.umich.edu/).
+  Lab](https://spqr.eecs.umich.edu/). The project is led by PhD student Julia
+  Lanier and directed by Prof. Kevin Fu and Alanson Sample.
 
 <p align="center">
   <img width="48" height="48" src="public/imgs/yatian_liu_logo.svg">
