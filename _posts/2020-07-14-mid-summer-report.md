@@ -3,9 +3,9 @@ layout: post
 title: Mid-Summer Report for the Microphone Array Project
 ---
 
-This is my report for the work I did for the microphone array project after half
-of the summer vacation has passed and what I plan to achieve in the rest of the
-summer.
+This is my report for the work I have done for the microphone array project
+after half of the summer vacation has passed and what I plan to achieve in the
+rest of the summer.
 
 ## What I have done
 At the beginning of May, I was admitted to the SPQR Lab for the microphone array
