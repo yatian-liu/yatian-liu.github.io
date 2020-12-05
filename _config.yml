@@ -18,6 +18,8 @@ defaults:
 github:
   repo: https://github.com/yatian-liu/yatian-liu.github.io
 
+google_analytics_id: G-P0PRXE8CHX
+
 exclude:
   # Default
   - Gemfile
