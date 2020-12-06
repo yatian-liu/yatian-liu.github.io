@@ -47,7 +47,8 @@ Besides my academic interest on human-computer interaction and embedded systems,
 I'm also interested in general electronics such as headphones and cameras. I'm
 an amateur photographer who like to use cameras to capture beautiful, memorable,
 or emotional moments. Besides, I have a little experience in graphic design and
-in particular really appreciate the beauty of typography. I support the free
+in particular really appreciate the beauty of typography (the logo below is
+designed by me in a beginners' graphic design course!). I support the free
 software movement and try to use proprietary software only when I really need
 it.
 
