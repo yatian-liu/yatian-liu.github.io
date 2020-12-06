@@ -1,4 +1,5 @@
 {
     "vim.textwidth": 80,
-    "rewrap.wrappingColumn": 80
+    "rewrap.wrappingColumn": 80,
+    "editor.tabSize": 2
 }

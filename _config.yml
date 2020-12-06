@@ -1,7 +1,7 @@
 # Setup
 title: Yatian Liu
 description: > # Treat newlines as spaces in the following block
-  A website about Yatian Liu and his research experiences.
+  A website about Yatian Liu's life and career.
 
 plugins:
   - jekyll-feed
