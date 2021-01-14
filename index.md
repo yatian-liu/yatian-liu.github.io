@@ -22,24 +22,25 @@ China and the United States.
 
 ## Recent Projects
 
-- Currently building an ultrasonic microphone array system for advanced sensing
-  like accurate sound source localization at the [SPQR
+- Currently building an ultrasonic microphone array system for advanced acoustic
+  sensing like accurate sound source localization at the [SPQR
   Lab](https://spqrlab1.github.io/). The project is led by PhD student Julia
   Lanier and directed by Prof. Kevin Fu and Alanson Sample. On an Intel Arria V
   FPGA, we finished developing and testing a digital signal processing system to
   convert PDM signals from multiple MEMS microphones to PCM signals in parallel
-  and a subsystem to transmit the PCM signal samples to a computer via Ethernet.
-  The detailed progress of the project can be seen from the blog posts.
+  and a subsystem to transmit the PCM signal samples to a computer using UDP
+  packets via Ethernet. The detailed progress of the project can be seen from
+  the [blog posts](/posts).
 
-- Almost done with a major design project for EECS 473, an embedded systems
-  course from the University of Michigan! There is an [online project
+- In Fall 2020, finished a major design project for EECS 473, an embedded
+  systems course from the University of Michigan. There is an [online project
   showcase](https://cse.engin.umich.edu/eecs-473-advanced-embedded-systems/) for
-  all the projects in the Fall 2020 semester. I'm in the Door Display group, who
-  developed a low-power door- or wall-mounted wireless information display
-  powered by a solar panel and a battery. We initially aimed to make the display
-  self-sustaining, but it turned out to be a too difficult goal. Nevertheless,
-  we still managed to reach a battery life of more than one month. The details
-  of our project are on the project showcase website.
+  all the projects. I'm in the Door Display group, who developed a low-power
+  door- or wall-mounted wireless information display powered by a solar panel
+  and a battery. We initially aimed to make the display self-sustaining, but it
+  turned out to be a too difficult goal. Nevertheless, we still managed to reach
+  a battery life of more than one month. The details of our project are on the
+  project showcase website.
 
 ## Personal Life
 
@@ -48,9 +49,10 @@ I'm also interested in general electronics such as headphones and cameras. I'm
 an amateur photographer who like to use cameras to capture beautiful, memorable,
 or emotional moments. Besides, I have a little experience in graphic design and
 in particular really appreciate the beauty of typography (the logo below is
-designed by me in a beginners' graphic design course!). I support the free
-software movement and try to use proprietary software only when I really need
-it.
+designed by me in a beginners' graphic design course!). Some of my photographs
+and design works are given on the [Artistic Works](/artistic_works) page. In
+addition, I support the free software movement and try to use proprietary
+software only when I really need it.
 
 <p align="center">
   <img width="48" height="48" src="/public/imgs/yatian_liu_logo.svg">
