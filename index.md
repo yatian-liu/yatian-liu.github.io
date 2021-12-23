@@ -9,8 +9,13 @@ title: Home
 
 A first-year Master's student at the University of Michigan, majoring in
 Computer Science and Engineering. Interested in the field of human-computer
-interaction and interactive embedded systems and currently working on relevant
-projects.
+interaction, interactive embedded systems, and the general electronics industry
+and currently working on relevant projects.
+
+*The information about my projects on the website is not very up to date. For
+most recent information, please have a look at the Projects section of my
+[LinkedIn homepage](https://www.linkedin.com/in/yatliu), thank you! You can
+still learn about my personal characters on this website.*
 
 I transferred to University of Michigan, Ann Arbor in 2019, and before that I
 studied Electrical and Computer Engineering at the [UM-SJTU Joint
@@ -20,7 +25,7 @@ provides me a precious opportunity to study at top research universities in both
 China and the United States. I got my bachelor's degree from both UM and SJTU in
 April 2021 and August 2021 respectively.
 
-[Resume](public/yatian_liu_resume.pdf) (updated in September 2021)
+[Resume](public/yatian_liu_resume.pdf) (updated in December 2021)
 
 ## Recent Projects
 
